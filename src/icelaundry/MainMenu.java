@@ -6,7 +6,7 @@
 package icelaundry;
 
 import java.awt.Color;
-// a changes
+// a ch
 /**
  *
  * @author X453SA
